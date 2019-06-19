@@ -1,5 +1,9 @@
 forge 'https://forge.puppet.com'
 
+mod 'puppetlabs-stdlib', '6.0.0'
+mod 'thias-bind', '0.5.4'
+
+
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
 #mod 'puppetlabs/inifile',     '2.2.1'
